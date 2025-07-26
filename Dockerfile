@@ -1,1 +1,1 @@
-FROM bitnami/zabbix-agent
+FROM docker.io/zabbix/zabbix-agent
